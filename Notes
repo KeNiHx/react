@@ -5,3 +5,25 @@ What is React and its Purpose?
 Why not Redux ?
 - React can work by itself
 - It can also work with a tremendous variety of other libraries, packages, servers, and databases
+
+A Javascript "class"
+React 'components' are made using either Javascript functions or classes
+
+JSX 
+- a special dialect of JS which tells a react component how it should it look like when its renderred and shows up on the screen og the browser.
+- It looks like HTML and can be placed in JS code. Determines the content of a React app just like normal HTML.
+
+Event Handlers
+- event handlers are used to detect user interaction and respond to it
+
+React and ReactDOM
+- React is split into two separate libraries
+- "React" knows what a component is and how to make components work together.
+- "ReactDOM" knows how to take a component and make it show up in the DOM.
+
+
+
+'npm' (stands for nothing, but Node package manager)  = RUNS
+'install' = we want to reference the install comnmand 
+'-g' = intalls this package globally so we can trun it from the terminal 
+'create-react-app' = name of the package we want to install
