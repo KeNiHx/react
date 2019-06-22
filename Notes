@@ -1,0 +1,7 @@
+What is React and its Purpose?
+- React is a Javascript Library
+- React's purpose is to show content(HTML) to users and handle user interaction.
+
+Why not Redux ?
+- React can work by itself
+- It can also work with a tremendous variety of other libraries, packages, servers, and databases
