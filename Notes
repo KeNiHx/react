@@ -27,3 +27,22 @@ React and ReactDOM
 'install' = we want to reference the install comnmand 
 '-g' = intalls this package globally so we can trun it from the terminal 
 'create-react-app' = name of the package we want to install
+
+Alternate Route
+npx create-react-app <name of project>
+
+In a React app there are: `Webpack`, `Babel`, `Dev Server`
+ES5 version of javascript
+- supported across all browsers
+Each newer version of JS with new and useful features.
+
+What is Babel? 
+A command line tool that takes any version of JS and return a newer version of JS thats supported on the browser
+
+Project Directory
+src, folder where we put all the source code we write
+public, folder that stores static files, like images
+node_modules, folder that contains all of our project dependencies
+package.json, records project dependencies and configures the project
+package.lock.json, records the exact version of packages that are installed
+README.md, Instructions on how to use the project
